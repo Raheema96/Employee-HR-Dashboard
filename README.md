@@ -1,4 +1,5 @@
 Awesome Chocolates HR Dashboard: Employee Insights
+
 This Power BI HR Dashboard analyzes a fictitious company, Awesome Chocolates, using publicly available HR data. The primary goal was to transform raw data into actionable insights, addressing key questions vital for human resources and strategic decision-making.
 
 Key Questions Explored
